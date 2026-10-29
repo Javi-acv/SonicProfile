@@ -1,0 +1,8 @@
+PySide6>=6.7,<7.0
+soundcard>=0.4.2
+numpy>=1.26
+
+# Windows now-playing metadata and album artwork (Global System Media Controls)
+winrt-Windows.Media.Control>=2.0
+winrt-Windows.Storage.Streams>=2.0
+winrt-Windows.Foundation>=2.0
